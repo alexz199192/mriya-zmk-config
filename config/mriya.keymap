@@ -401,10 +401,10 @@
 */
 
             bindings = <
-&kp CAPS   &kp F10  &kp F9  &kp F8  &kp F7     &kp GRAVE                        &kp EXCL        &kp AT        &kp HASH      &kp DOLLAR  &kp PERCENT  &kp RGUI
-&kp LCTRL  &kp F11  &kp F3  &kp F2  &kp F1     &kp K_CMENU                      &colon          &question     &kp STAR      &kp LPAR    &kp RPAR     &kp AMPS
-&kp LALT   &kp F12  &kp F6  &kp F5  &kp F4     &kp LG(SPACE)                    &kp BSLH        &lguillement  &rguillement  &lbracket   &rbracket    &kp CARET
-                                    &lt 3 TAB  &mt LSHFT SPACE  &trans  &trans  &mt RSHFT BSPC  &lt 3 DEL
+&kp NUMBER_1  &kp F10  &kp F9  &kp F8  &kp F7     &kp GRAVE                        &kp EXCL        &kp AT        &kp HASH      &kp DOLLAR  &kp PERCENT  &kp RGUI
+&kp LCTRL     &kp F11  &kp F3  &kp F2  &kp F1     &kp K_CMENU                      &colon          &question     &kp STAR      &kp LPAR    &kp RPAR     &kp AMPS
+&kp LALT      &kp F12  &kp F6  &kp F5  &kp F4     &kp LG(SPACE)                    &kp BSLH        &lguillement  &rguillement  &lbracket   &rbracket    &kp CARET
+                                       &lt 3 TAB  &mt LSHFT SPACE  &trans  &trans  &mt RSHFT BSPC  &lt 3 DEL
             >;
         };
 
